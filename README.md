@@ -1,5 +1,8 @@
 # CS2 match outcome predictions using RandomForestClassifier
 
+![image](https://github.com/garrythewarlord/cs2-predictions/assets/55551543/39c1ff1f-1f25-4774-891d-faa85ca40ae0)
+
+
 ## Install dependancies
 1. Clone repo
 2. Navigate to its directory via command line and run ```pip install -r requirements.txt```
