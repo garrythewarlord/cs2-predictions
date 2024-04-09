@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+customtkinter==5.2.2
+pandas==2.2.1
+pyperclip==1.8.2
+python_utils==3.8.2
+Requests==2.31.0
+scikit_learn==1.4.1.post1
+tzlocal==5.2
